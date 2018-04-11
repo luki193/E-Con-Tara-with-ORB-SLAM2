@@ -3,13 +3,13 @@ Create 3D vision using stereo camera with ORB-SLAM2
 
 
 ### Uruchomienie
-Folder see3cam należy skopiować do Workspace/
+Folder see3cam należy skopiować do Workspace/src
 
 Następnie w konsoli:
 
 ```
-$ source devel/setup.bash
-& roslaunch uvc_camera tara_launch.launch
+source devel/setup.bash
+roslaunch uvc_camera tara_launch.launch
 ```
 
 
