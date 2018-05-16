@@ -1,6 +1,8 @@
 # E-Con-Tara-with-ORB-SLAM2
 Create 3D vision using stereo camera with ORB-SLAM2
 
+# Nie czytać, bo kłamie!
+
 
 ### Uruchomienie
 Folder see3cam należy skopiować do Workspace/src
